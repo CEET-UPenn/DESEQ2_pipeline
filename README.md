@@ -1,9 +1,11 @@
 DESEQ2_pipeline
+
 How we do differential gene expression analysis with DESEQ2
 
 
 
 Methods:
+
 Gene annotations were downloaded from gencode v34 on 01/13/22. 
 
 If files are not aligned, align with run_STAR.py (for this experiment, files provided were already aligned) 
